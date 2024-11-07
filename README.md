@@ -98,7 +98,7 @@ Antes de começar, você precisa ter o seguinte instalado:
 
 - **Página Inicial**: Exibe uma introdução e destaque dos produtos.
 - **Catálogo de Produtos**: Exibe todos os produtos cadastrados no banco de dados.
-- **Carrinho de Compras**: Usuários podem adicionar produtos ao carrinho e realizar compras.
+- **Carrinho de Compras**: Usuários podem adicionar e remover produtos do carrinho.
 - **Área do Usuário**: Permite a visualização e a edição de informações da conta.
 - **Cadastro e Login**: Usuários podem se registrar ou fazer login no sistema.
 
